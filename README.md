@@ -9,3 +9,5 @@ I’m interested in the web/software dev.
 - html/css
 - php
 - java
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Welpike)](https://github.com/Welpike)
