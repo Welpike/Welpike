@@ -10,4 +10,4 @@ I’m interested in the web/software dev.
 - php
 - java
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Welpike&show_icons=true)](https://github.com/Welpike)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Welpike&show_icons=true)](https://github.com/Welpike&theme=radical)
