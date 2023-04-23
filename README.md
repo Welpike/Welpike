@@ -9,8 +9,11 @@ I’m interested in the web/software dev.
 - html/css
 - php
 - java
-- go (in progress)
-- rust (in progress)
+
+# I'm learning
+- c++
+- rust
+- go
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Welpike&show_icons=true&theme=radical)](https://github.com/Welpike)
 
