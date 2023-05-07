@@ -8,12 +8,12 @@ I’m interested in the web/software dev.
 - javascript
 - html/css
 - php
-- java
 
 # I'm learning
-- c++
+- c++ (_focusing_)
 - rust
 - go
+- java
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Welpike&show_icons=true&theme=radical)](https://github.com/Welpike)
 
