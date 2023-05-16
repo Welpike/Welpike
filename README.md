@@ -9,7 +9,7 @@ I’m interested in the web/software dev.
 - html/css
 - php
 
-# I'm learning
+## I'm learning...
 - c++ (_focusing_)
 - rust
 - go
