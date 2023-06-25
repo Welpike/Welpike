@@ -4,16 +4,10 @@ I’m @Welpike
 I’m interested in the web/software dev.
 
 ## Languages
-- python
-- javascript
-- html/css
-- php
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)
 
 ## I'm learning...
-- c++
-- nodejs
-- adonisjs
-- typescript
+[![My Skills](https://skillicons.dev/icons?i=cpp,nodejs,adonis,ts)](https://skillicons.dev)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Welpike&show_icons=true&theme=radical)](https://github.com/Welpike)
 
