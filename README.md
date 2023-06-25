@@ -4,7 +4,7 @@ I’m @Welpike
 I’m interested in the web/software dev.
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,php)](https://skillicons.dev)
 
 ## I'm learning...
 [![My Skills](https://skillicons.dev/icons?i=cpp,nodejs,adonis,ts)](https://skillicons.dev)
