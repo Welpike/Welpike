@@ -13,7 +13,7 @@ I’m interested in the web/software dev.
 [![My Skills](https://skillicons.dev/icons?i=alpinejs,ruby,symfony,docker,githubactions,gitlab)](https://skillicons.dev)
 
 ## I tried...
-[![My Skills](https://skillicons.dev/icons?i=go,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,java,kotlin)](https://skillicons.dev)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Welpike&show_icons=true&theme=radical)](https://github.com/Welpike)
 
