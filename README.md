@@ -3,7 +3,7 @@
 I’m @Welpike  
 I’m interested in the web/software dev.
 
-I'm working on [https://github.com/The-HaribOS-Organization](HaribOS), and on the [https://github.com/paxo-rch/paxo-site](Paxos website). And with Aelia.
+I'm working on [HaribOS](https://github.com/The-HaribOS-Organization), and on the [PaxoPhone website](https://github.com/paxo-rch/paxo-site). And with [@AeliaDev](https://github.com/AeliaDev).
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,php,git,github)](https://skillicons.dev)
