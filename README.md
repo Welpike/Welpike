@@ -9,7 +9,7 @@ I'm working on [HaribOS](https://github.com/The-HaribOS-Organization), and on th
 [![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,php,git,github)](https://skillicons.dev)
 
 ## I'm learning...
-[![My Skills](https://skillicons.dev/icons?i=godot,java,nodejs,adonis,ts,svelte,laravel,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,lua,java,nodejs,adonis,ts,svelte,laravel,cpp)](https://skillicons.dev)
 
 ## I want to learn...
 [![My Skills](https://skillicons.dev/icons?i=haskell,alpinejs,ruby,symfony,docker,githubactions,gitlab)](https://skillicons.dev)
