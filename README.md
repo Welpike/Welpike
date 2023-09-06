@@ -17,8 +17,6 @@ I'm working on [HaribOS](https://github.com/The-HaribOS-Organization), and on th
 ## I tried...
 [![My Skills](https://skillicons.dev/icons?i=go,rust,kotlin)](https://skillicons.dev)
 
-[![My discord status](https://discord.c99.nl/widget/theme-4/1064129013041332274.png)](https://discord.c99.nl)
-
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Welpike&show_icons=true&theme=radical)](https://github.com/Welpike)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welpike&hide=html,makefile&layout=compact)](https://github.com/Welpike)
